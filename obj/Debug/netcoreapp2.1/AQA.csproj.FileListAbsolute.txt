@@ -1,0 +1,11 @@
+C:\Users\Heidi Mortensen\Documents\AQA\bin\Debug\netcoreapp2.1\AQA.deps.json
+C:\Users\Heidi Mortensen\Documents\AQA\bin\Debug\netcoreapp2.1\AQA.runtimeconfig.json
+C:\Users\Heidi Mortensen\Documents\AQA\bin\Debug\netcoreapp2.1\AQA.runtimeconfig.dev.json
+C:\Users\Heidi Mortensen\Documents\AQA\bin\Debug\netcoreapp2.1\AQA.dll
+C:\Users\Heidi Mortensen\Documents\AQA\bin\Debug\netcoreapp2.1\AQA.pdb
+C:\Users\Heidi Mortensen\Documents\AQA\obj\Debug\netcoreapp2.1\AQA.csprojAssemblyReference.cache
+C:\Users\Heidi Mortensen\Documents\AQA\obj\Debug\netcoreapp2.1\AQA.csproj.CoreCompileInputs.cache
+C:\Users\Heidi Mortensen\Documents\AQA\obj\Debug\netcoreapp2.1\AQA.AssemblyInfoInputs.cache
+C:\Users\Heidi Mortensen\Documents\AQA\obj\Debug\netcoreapp2.1\AQA.AssemblyInfo.cs
+C:\Users\Heidi Mortensen\Documents\AQA\obj\Debug\netcoreapp2.1\AQA.dll
+C:\Users\Heidi Mortensen\Documents\AQA\obj\Debug\netcoreapp2.1\AQA.pdb
