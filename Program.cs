@@ -18,7 +18,7 @@ namespace AQA
             Console.WriteLine("I am a special class of Smurf cats");
             }
         }
-
+///make names of cats
         static void Main(string[] args)
         {
             Cat Bilbo = new Cat();
